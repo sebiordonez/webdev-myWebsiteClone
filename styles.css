@@ -1,1 +1,28 @@
-/* CSS CODE HERE */
+body{
+    margin: 0;
+    padding: 0;
+}
+#topbar {
+    width: 100vw;
+    height: 40px;
+    background-color: #006341;
+}
+#rewards{
+    float: right;
+    padding-right: 300px;
+    padding-top: 10px;
+    color: white;
+    text-decoration: underline;
+}
+nav{
+    background-color: #f7f7f7;
+    width: 100vw;
+    height: 98px;
+}
+ul{
+    list-style: none;
+    padding-top: 18px;
+    padding-left: 313px;
+    margin-top: 0;
+    display: inline-block;
+}
