@@ -22,7 +22,25 @@ nav{
 ul{
     list-style: none;
     padding-top: 18px;
-    padding-left: 313px;
+    padding-left: 300px;
     margin-top: 0;
     display: inline-block;
 }
+ul li{
+    display: inline;
+    padding: 11px 15px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #5b5959
+}
+.locator{
+    height: 28px;
+    width: 20px;
+}
+#herosection{
+    width: 100vw;
+    height: 560px;
+    background-image: url("//globalassets.starbucks.com/assets/bb9cbcff41ef47fea5ea945eecf42cf1.jpg");
+}
+
